@@ -1,0 +1,25 @@
+#Tue May 30 21:33:04 CDT 2017
+renamed.7=classes2.dex
+renamed.6=classes3.dex
+renamed.5=classes5.dex
+renamed.4=classes4.dex
+renamed.3=classes8.dex
+renamed.2=classes7.dex
+renamed.1=classes.dex
+renamed.0=classes6.dex
+base.7=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-17.0_192ce959e4ac2c4275da9281fca50f32a6cb4cb8
+base.6=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a7815b30bb18f2e7ec53b9abee97facd67f44d1
+base.5=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_4e9a6a53e44005751c8c3430d5c1d7185d86d75b
+base.4=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.3.2_c0b49eeabbb1e005a1a90d89ecc513c9f09a107b
+base.3=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilecloud.handin-1.0.0_774c7b4c67078db4b0f212de9734a06c0f9ddacc
+base.2=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_7b6f383b3644696e09d441182660d6c67de571cb
+base.1=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b414f0a0a39f8f3036f5f598942bf1433a9d9759
+base.0=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dbc4c1afbb89166f2c2a232dfc6be7cc16949fc
+file.7=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-17.0_192ce959e4ac2c4275da9281fca50f32a6cb4cb8/classes.dex
+file.6=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a7815b30bb18f2e7ec53b9abee97facd67f44d1/classes.dex
+file.5=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_4e9a6a53e44005751c8c3430d5c1d7185d86d75b/classes.dex
+file.4=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.3.2_c0b49eeabbb1e005a1a90d89ecc513c9f09a107b/classes.dex
+file.3=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilecloud.handin-1.0.0_774c7b4c67078db4b0f212de9734a06c0f9ddacc/classes.dex
+file.2=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_7b6f383b3644696e09d441182660d6c67de571cb/classes.dex
+file.1=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b414f0a0a39f8f3036f5f598942bf1433a9d9759/classes.dex
+file.0=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dbc4c1afbb89166f2c2a232dfc6be7cc16949fc/classes.dex
