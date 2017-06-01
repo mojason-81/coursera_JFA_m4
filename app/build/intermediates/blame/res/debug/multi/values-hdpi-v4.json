@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "outputFile": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 325
                 },
                 "from": {
-                    "file": "/home/jason/.android/build-cache/f1df3e85ca1a7d68affa6c4b64e507934d6454fa/output/res/values-hdpi/values-hdpi.xml",
+                    "file": "/home/jason/.android/build-cache/911150135eee4db938f68842e042d60bf4d91210/output/res/values-hdpi/values-hdpi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/jason/.android/build-cache/f1df3e85ca1a7d68affa6c4b64e507934d6454fa/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/jason/.android/build-cache/911150135eee4db938f68842e042d60bf4d91210/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/jason/.android/build-cache/f1df3e85ca1a7d68affa6c4b64e507934d6454fa/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/jason/.android/build-cache/911150135eee4db938f68842e042d60bf4d91210/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

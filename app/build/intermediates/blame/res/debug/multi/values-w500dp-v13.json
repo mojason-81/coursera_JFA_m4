@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+        "outputFile": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 105
                 },
                 "from": {
-                    "file": "/home/jason/.android/build-cache/f1df3e85ca1a7d68affa6c4b64e507934d6454fa/output/res/values-w500dp/values-w500dp.xml",
+                    "file": "/home/jason/.android/build-cache/911150135eee4db938f68842e042d60bf4d91210/output/res/values-w500dp/values-w500dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

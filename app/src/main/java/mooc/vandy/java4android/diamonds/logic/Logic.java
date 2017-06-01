@@ -47,12 +47,86 @@ public class Logic
     public void process(int size) {
 
         // TODO -- add your code here
-        // Height of drawing is (size * 2) +1
-        printBorder(size);
-        //printTopOfDiamond(size);
-        //printCenterLineOfDiamond(size);
-        printBottomOfDiamond(size);
-        printBorder(size);
+
+        // Define some variables for the "edges" of our triangle.
+        String start = "/";
+        String stop = "\\";
+
+        // Stick the end of our range in a variable
+        int max = size * 2 + 1;
+
+        for (int i = 0; i < max; i++) {
+            if (i == 0 || i == max - 1) {
+                printBorder(size);
+            } else {
+                // Swap start and stop characters when
+                // we get to the bottom of the diamond.
+                if (i == size) {
+                    start = "<";
+                    stop = ">";
+                } else if (i > size) {
+                    start = "\\";
+                    stop = "/";
+                }
+
+                // Let's call a separate function to handle
+                // actually drawing the line.
+                printCurrentLine(i, size, start, stop);
+            }
+        }
+    }
+
+    public void printCurrentLine(int i, int size, String start, String stop) {
+        // Set a variable for the "middle" line characters
+        String spacer = "==";
+        if (i % 2 == 0) {
+            spacer = "--";
+        }
+
+        // Draw the left border
+        mOut.print("|");
+
+        // Draw the leading spaces
+        if (i <= size) {
+            for (int j = size; j > i; j--) {
+                mOut.print(" ");
+            }
+        } else {
+            for (int j = 0; j < i - size; j++) {
+                mOut.print(" ");
+            }
+        }
+
+        // Draw the leading edge of the diamond
+        mOut.print(start);
+
+        // Draw the contents of the line
+        if (i <= size) {
+            for (int j = 1; j < i; j++) {
+                mOut.print(spacer);
+            }
+        } else {
+            for (int j = size * 2 - 1; j > i; j--) {
+                mOut.print(spacer);
+            }
+        }
+
+        // Draw the trailing edge of the diamond
+        mOut.print(stop);
+
+        // Draw the trailing spaces
+        if (i <= size) {
+            for (int j = size; j > i; j--) {
+                mOut.print(" ");
+            }
+        } else {
+            for (int j = 0; j < i - size; j++) {
+                mOut.print(" ");
+            }
+        }
+
+        // Draw the right border
+        mOut.println("|");
     }
 
     // Print the string representing the top
@@ -66,73 +140,6 @@ public class Logic
                 mOut.print("-");
             }
         }
-    }
-
-    public void printTopOfDiamond(int size) {
-        mOut.print("|");
-        for (int i = 0; i < size * 2; i++) {
-            printCurrentLine(i, size, "/", "\\");
-        }
-        mOut.print("|");
-    }
-
-    public void printCenterLineOfDiamond(int size) {
-        mOut.print("|");
-        for (int i = 0; i < size * 2; i++) {
-            if (i == 0) {
-                mOut.print("<");
-            } else if (i == size * 2 - 1) {
-                mOut.print(">");
-            } else {
-                if (size % 2 == 0) {
-                    mOut.print("-");
-                } else {
-                    mOut.print("=");
-                }
-            }
-        }
-        mOut.print("|");
-    }
-
-    public void printBottomOfDiamond(int size) {
-        // Set up loop for the "height" of the diamond
-        for (int i = 0; i <= size * 2 - 2; i++) {
-            mOut.print("|");
-            // Let's call a separate function to handle
-            // actually drawing the line.
-            printCurrentLine(i, size, "\\", "/");
-            mOut.print("|");
-        }
-    }
-
-    public void printCurrentLine(int i, int size, String start, String stop) {
-        // Set a variable for the "middle" line characters
-        String spacer = "";
-        if (i % 2 == 0) {
-            spacer = "-";
-        } else {
-            spacer = "=";
-        }
-
-        // Draw the leading spaces
-        for (int j = size; j > i; j--) {
-            mOut.print(" ");
-        }
-
-        // Draw the leading edge of the diamond
-        mOut.print(start);
-
-        // Draw the contents of the diamond
-        for (int j = 0; j < i; j++) {
-            mOut.print(spacer);
-        }
-
-        // Draw the trailing edge of the diamond
-        mOut.print(stop);
-
-        // Draw the trailing spaces
-        for (int j= size; j <=i; j++) {
-            mOut.print(" ");
-        }
+        mOut.print("\n");
     }
 }

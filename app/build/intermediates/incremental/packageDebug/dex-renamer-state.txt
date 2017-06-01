@@ -1,7 +1,0 @@
-#Tue May 30 21:33:04 CDT 2017
-base.0=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_828406c68c59d930c319916138a301af29d44038
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_90068fa0fb90b04a58a5e350641ba775e6dd717b/classes.dex
-base.1=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_90068fa0fb90b04a58a5e350641ba775e6dd717b
-file.0=/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_828406c68c59d930c319916138a301af29d44038/classes.dex

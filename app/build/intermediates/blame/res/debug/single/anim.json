@@ -1,58 +1,58 @@
 [
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/anim/fab_out.xml",
-        "source": "/home/jason/.android/build-cache/f1b768508fa72a07abc1727ca543c736e58992a5/output/res/anim/fab_out.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/jason/.android/build-cache/911150135eee4db938f68842e042d60bf4d91210/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/anim/snackbar_in.xml",
-        "source": "/home/jason/.android/build-cache/f1b768508fa72a07abc1727ca543c736e58992a5/output/res/anim/snackbar_in.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/jason/.android/build-cache/911150135eee4db938f68842e042d60bf4d91210/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/anim/snackbar_out.xml",
-        "source": "/home/jason/.android/build-cache/f1b768508fa72a07abc1727ca543c736e58992a5/output/res/anim/snackbar_out.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/jason/.android/build-cache/911150135eee4db938f68842e042d60bf4d91210/output/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/jason/.android/build-cache/f1df3e85ca1a7d68affa6c4b64e507934d6454fa/output/res/anim/abc_slide_in_top.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/jason/.android/build-cache/911150135eee4db938f68842e042d60bf4d91210/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/jason/.android/build-cache/f1df3e85ca1a7d68affa6c4b64e507934d6454fa/output/res/anim/abc_fade_out.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/jason/.android/build-cache/911150135eee4db938f68842e042d60bf4d91210/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/home/jason/.android/build-cache/f1df3e85ca1a7d68affa6c4b64e507934d6454fa/output/res/anim/abc_popup_exit.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/jason/.android/build-cache/911150135eee4db938f68842e042d60bf4d91210/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/jason/.android/build-cache/f1df3e85ca1a7d68affa6c4b64e507934d6454fa/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/jason/.android/build-cache/911150135eee4db938f68842e042d60bf4d91210/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/jason/.android/build-cache/f1df3e85ca1a7d68affa6c4b64e507934d6454fa/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/anim/fab_out.xml",
+        "source": "/home/jason/.android/build-cache/bed2f0a58850bbe8d07a19aae57ab6361f2bdec1/output/res/anim/fab_out.xml"
     },
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/jason/.android/build-cache/f1df3e85ca1a7d68affa6c4b64e507934d6454fa/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/jason/.android/build-cache/911150135eee4db938f68842e042d60bf4d91210/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/jason/.android/build-cache/f1df3e85ca1a7d68affa6c4b64e507934d6454fa/output/res/anim/abc_fade_in.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/anim/fab_in.xml",
+        "source": "/home/jason/.android/build-cache/bed2f0a58850bbe8d07a19aae57ab6361f2bdec1/output/res/anim/fab_in.xml"
     },
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/jason/.android/build-cache/f1df3e85ca1a7d68affa6c4b64e507934d6454fa/output/res/anim/abc_slide_out_top.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/anim/snackbar_out.xml",
+        "source": "/home/jason/.android/build-cache/bed2f0a58850bbe8d07a19aae57ab6361f2bdec1/output/res/anim/snackbar_out.xml"
     },
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/jason/.android/build-cache/f1df3e85ca1a7d68affa6c4b64e507934d6454fa/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/jason/.android/build-cache/911150135eee4db938f68842e042d60bf4d91210/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/anim/fab_in.xml",
-        "source": "/home/jason/.android/build-cache/f1b768508fa72a07abc1727ca543c736e58992a5/output/res/anim/fab_in.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/jason/.android/build-cache/911150135eee4db938f68842e042d60bf4d91210/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/home/jason/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/home/jason/.android/build-cache/f1df3e85ca1a7d68affa6c4b64e507934d6454fa/output/res/anim/abc_popup_enter.xml"
+        "merged": "/home/jason/Projects/java/coursera_JFA_m4/app/build/intermediates/res/merged/debug/anim/snackbar_in.xml",
+        "source": "/home/jason/.android/build-cache/bed2f0a58850bbe8d07a19aae57ab6361f2bdec1/output/res/anim/snackbar_in.xml"
     }
 ]
